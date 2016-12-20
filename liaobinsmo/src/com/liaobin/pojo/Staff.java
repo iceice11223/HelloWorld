@@ -17,6 +17,7 @@ public class Staff implements Serializable {
 	private String dname;
 	private String loc;
 	private Integer sal;
+	private Integer deptno;
 
 	public String getEname() {
 		return ename;
